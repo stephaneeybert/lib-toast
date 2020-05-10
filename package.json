@@ -1,6 +1,7 @@
 {
   "name": "lib-toast",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "The lib-toast Angular library",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -26,7 +27,7 @@
     "@angular/platform-browser": "~9.1.0",
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
-    "lib-i18n": "file:../lib-i18n/dist/lib-i18n/lib-i18n-0.0.1.tgz",
+    "@stephaneeybert/lib-i18n": "0.0.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
