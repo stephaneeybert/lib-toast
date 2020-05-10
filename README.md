@@ -1,7 +1,10 @@
-# LibCore
+# LibToast
 
 Installation instructions
 npm run package
 
+Publish the library
+npm publish ./dist/lib-toast/stephaneeybert-lib-toast-0.0.1.tgz
+
 In the client application
-npm install ../lib-toast/dist/lib-toast/lib-toast-0.0.1.tgz
+npm install @stephaneeybert/lib-toast
