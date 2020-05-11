@@ -1,6 +1,11 @@
 # LibToast
 
-Installation instructions
+Bump the version
+cd projects/lib-toast/
+npm version minor
+cd ../../
+
+Build the library
 npm run package
 
 Publish the library
