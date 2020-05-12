@@ -1,15 +1,15 @@
 # LibToast
 
-Bump the version
-cd projects/lib-toast/
-npm version minor
-cd ../../
+# Bump the version
+cd projects/lib-toast/;
+npm version patch;
+cd ../../;
 
-Build the library
-npm run package
+# Build the library
+npm run package;
 
-Publish the library
-npm publish ./dist/lib-toast/stephaneeybert-lib-toast-0.0.1.tgz
+# Publish the library
+npm publish ./dist/lib-toast/stephaneeybert-lib-toast-
 
-In the client application
+# In the client application
 npm install @stephaneeybert/lib-toast
