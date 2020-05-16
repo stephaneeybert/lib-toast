@@ -8,9 +8,11 @@ cd ../../;
 # Build the library
 npm run package;
 
+# Sync the workspace version to the library project one
+ng-version-sync-parent;
+
 # Publish the library
 npm publish ./dist/lib-toast/stephaneeybert-lib-toast-
-ng-version-sync-parent
 
 # In the client application
 npm install @stephaneeybert/lib-toast
