@@ -1,6 +1,6 @@
 # LibToast
 
-# Bump the version
+# Bump the library project version
 cd projects/lib-toast/;
 npm version patch;
 cd ../../;
