@@ -1,6 +1,6 @@
 {
   "name": "lib-toast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The lib-toast Angular library",
   "scripts": {
     "ng": "ng",
