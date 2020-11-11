@@ -18,5 +18,5 @@ npm publish ./dist/lib-toast/stephaneeybert-lib-toast-
 npm install @stephaneeybert/lib-toast
 
 # Serve again the client application
-  Ctrl+C
-  ng serve
+Ctrl+C
+ng serve
