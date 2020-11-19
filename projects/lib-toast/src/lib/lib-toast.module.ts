@@ -18,7 +18,7 @@ import { LibI18nModule } from '@stephaneeybert/lib-i18n';
 })
 export class LibToastModule {
 
-  public static forRoot(config = defaultToastConfig): ModuleWithProviders {
+  public static forRoot(config = defaultToastConfig): ModuleWithProviders<any> {
     return {
       ngModule: LibToastModule,
       providers: [
