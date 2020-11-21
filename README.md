@@ -15,7 +15,7 @@ ng-version-sync-parent;
 npm publish ./dist/lib-toast/stephaneeybert-lib-toast-
 
 # Install the dependencies in the client application
-npm install @stephaneeybert/lib-toast
+npm install @stephaneeybert/lib-toast@latest
 
 # Serve again the client application
 Ctrl+C
