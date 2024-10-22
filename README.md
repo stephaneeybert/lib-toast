@@ -1,7 +1,10 @@
 # LibToast
 
+# On a newly pulled codebase install the application
+npm install
+
 # Bump the library project version
-cd projects/lib-toast/;
+cd ./projects/lib-toast/;
 npm version patch;
 cd ../../;
 

@@ -45,6 +45,5 @@
     }},
   "cli": {
     "analytics": "731e5570-e274-479c-a830-aa161a2bd386"
-  },
-  "defaultProject": "lib-toast"
+  }
 }

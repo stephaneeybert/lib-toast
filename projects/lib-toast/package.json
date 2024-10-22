@@ -1,6 +1,6 @@
 {
   "name": "@stephaneeybert/lib-toast",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "description": "The lib-toast Angular library",
   "keywords": [
     "Angular",
@@ -14,20 +14,19 @@
   },
   "homepage": "https://github.com/stephaneeyber/lib-toast#readme",
   "peerDependencies": {
-    "@angular/animations": "~13.3.1",
-    "@angular/common": "~13.3.1",
-    "@angular/compiler": "~13.3.1",
-    "@angular/core": "~13.3.1",
-    "@angular/forms": "~13.3.1",
-    "@angular/platform-browser": "~13.3.1",
-    "@angular/platform-browser-dynamic": "~13.3.1",
-    "@angular/router": "~13.3.1",
-    "@angular/cdk": "^13.3.1",
-    "rxjs": "~6.6.0",
-    "tslib": "^2.3.1",
-    "zone.js": "~0.11.5",
-    "file-saver": "^2.0.5",
-    "ng-environmenter": "^0.1.2",
-    "@stephaneeybert/lib-i18n": "0.0.14"
+    "@angular/animations": "^18.2.8",
+    "@angular/cdk": "^18.2.9",
+    "@angular/common": "^18.2.8",
+    "@angular/compiler": "^18.2.8",
+    "@angular/core": "^18.2.8",
+    "@angular/forms": "^18.2.8",
+    "@angular/platform-browser": "^18.2.8",
+    "@angular/platform-browser-dynamic": "^18.2.8",
+    "@angular/router": "^18.2.8",
+    "@ngx-translate/core": "^15.0.0",
+    "@ngx-translate/http-loader": "^8.0.0",
+    "@stephaneeybert/lib-i18n": "^0.0.18",
+    "rxjs": "~7.8.1",
+    "tslib": "^2.8.0"
   }
 }
